@@ -16,19 +16,17 @@ Every server is a living battleground — build up, gear up, and decide whether 
 
 ## Downloads
 
-[![Latest Release](https://img.shields.io/github/v/release/Darkner-Dev/Ironfront-Demo-Releases?label=latest%20release)](../../releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/Darkner-Dev/Ironfront-Demo-Releases?include_prereleases&label=latest%20release)](../../releases)
 [![Downloads](https://img.shields.io/github/downloads/Darkner-Dev/Ironfront-Demo-Releases/total?label=downloads)](../../releases)
-[![Release Date](https://img.shields.io/github/release-date/Darkner-Dev/Ironfront-Demo-Releases?label=released)](../../releases/latest)
-
-> Replace `USERNAME/REPO` above with this repository's actual path so the badges populate correctly.
+[![Release Date](https://img.shields.io/github/release-date-pre/Darkner-Dev/Ironfront-Demo-Releases?label=released)](../../releases)
 
 ## Modding
 
-Ironfront supports mods, letting the community extend and customize the game beyond the base experience. Whether it's new content, tools, or gameplay tweaks, mods are a core part of how Ironfront grows over time.
+Modding support is not yet available in Ironfront, but it's planned for a future release. The goal is to let the community extend and customize the game beyond the base experience — new content, tools, and gameplay tweaks included.
 
-- Mods can be dropped in and shared between players and servers.
-- The modding community is welcome to build tools, content packs, and gameplay variations.
-- Check back here for modding guides and resources as they become available.
+- Mod support is on the roadmap, not yet live.
+- Once available, mods will be shareable between players and servers.
+- Check back here for modding guides and resources once the feature ships.
 
 ## Getting Started
 
