@@ -45,4 +45,4 @@ Feedback, bug reports, and suggestions from the community help shape Ironfront's
 
 ## License
 
-Ironfront is closed-source. This repository is for distributing playable releases and mod-related resources only; no source code is included.
+Ironfront is closed-source. This repository is for distributing playable releases and mod-related resources only; no source code is included. See [LICENSE.md](LICENSE.md) for full terms.
